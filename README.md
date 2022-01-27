@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sykron1947
 - 👀 I’m interested in board war gaming.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on nothing righ now.
+- 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me: nick@polital.com
 
 <!---
